@@ -1,5 +1,5 @@
 {
-  "name": "js-portfolio",
+  "name": "deploy-netlify-portfolio-webpack",
   "version": "1.0.0",
   "description": "A minimal portfolio with Vanilla JavaScript",
   "main": "index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://https://github.com/JhonMurillo/deploy-netlify-portfolio-webpack.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Jhon Murillo <jhonmurillo2014@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://https://github.com/JhonMurillo/deploy-netlify-portfolio-webpack/issues"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://https://github.com/JhonMurillo/deploy-netlify-portfolio-webpack#readme",
   "devDependencies": {
     "@babel/core": "^7.13.10",
     "@babel/plugin-transform-runtime": "^7.13.10",
